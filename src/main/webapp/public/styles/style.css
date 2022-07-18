@@ -1,0 +1,9 @@
+@charset "UTF-8";
+.chat {
+                width: 100%;
+                height: 200px;
+                border: 1px solid silver;
+                overflow-y: scroll;
+        }
+        #msg {width: 99%;}
+        h1 {text-align: center;}
